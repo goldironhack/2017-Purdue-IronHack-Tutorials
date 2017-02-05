@@ -18,7 +18,7 @@ Following command could be used in CMD, PowerShell or Git Shell. You can also us
 
 ##### 4. Work in your local repository
 
->$ cd DRIVE:/
+>$ cd DRIVE:
 
 >$ cd PATH_OF_FOLDER_NAME/
 
