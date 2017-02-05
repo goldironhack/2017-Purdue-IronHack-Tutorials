@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Making a Simple Line Chart in D3</title>
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+  </head>
+  <body>
+  
+    <script type="text/javascript">
+      var h=300;
+      var w=400;
+      
+      winPercentageByMonth = [
+      {"month":1, "winPercentage":20},
+      {"month":2, "winPercentage":14},
+      {"month":3, "winPercentage":20},
+      {"month":4, "winPercentage":21},
+      {"month":5, "winPercentage":15},
+      {"month":6, "winPercentage":22},
+      {"month":7, "winPercentage":9},
+      {"month":8, "winPercentage":6},
+      {"month":9, "winPercentage":23},
+      {"month":10, "winPercentage"7},
+      {"month":11, "winPercentage"40},
+      {"month":12, "winPercentage"45}
+      ];
+      
+      var svg = d3.select ("body").append("svg").attr({width:w, height:h;});
+      
+      
+      var line_one = d3.svg.line()
+              .x(function(d) {return d.month*33;});
+              .y(function(d) {return h-(d.winPercentage*3);})
+              .interpolate("linear");
+              
+              
+      var viz = svg.append("path")
+            .attr({
+              d:line_one(winPercentageByMonth),
+              "stroke":"blue",
+              "stroke-width": 2,
+              "file": "none"
+          });
+              
+    
