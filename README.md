@@ -50,4 +50,4 @@ You'll be required to use Github.com for submitting your code to our system. <a 
 
 ### Tutorial Project    
 
-We have made a complete tutorial project using a different problem statement. You can find the tutorial [here](Tutorial Project.md) and demo [here](http://rawgit.com/RCODI/2017-Purdue-Ironhack-Tutorials/master/2017-Purdue-Ironhacks-Tutorial-Project.html).
+We have made a complete tutorial project using a different problem statement. You can find the tutorial [here](Tutorial Project.md) and demo [here](http://rawgit.com/goldironhack/2017-Purdue-Ironhack-Tutorials/master/2017-Purdue-Ironhacks-Tutorial-Project.html).
