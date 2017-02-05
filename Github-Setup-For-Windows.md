@@ -20,7 +20,7 @@ Following command could be used in CMD, PowerShell or Git Shell. You can also us
 
 >$ cd DRIVE:
 
->$ cd PATH_OF_FOLDER_NAME/
+>$ cd PATH_OF_YOUR_FOLDER/
 
 ##### 5. Add your changes 
 
