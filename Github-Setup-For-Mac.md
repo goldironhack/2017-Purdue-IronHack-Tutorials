@@ -1,6 +1,11 @@
 ### Github Setup For Mac Users
 
-##### 1. Open your terminal
+##### 1. Open your terminal and configuration
+
+>$ git config --global user.name "Your Name"
+
+>$ git config --global user.email "email@example.com"
+
 ##### 2. Clone project from Github
 
 >$ git clone HTTPS_URL_OF_REPOSITORY

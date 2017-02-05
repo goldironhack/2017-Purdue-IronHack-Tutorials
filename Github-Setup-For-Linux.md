@@ -4,6 +4,7 @@
 ##### 2. Configure your information
 
 >$ git config --global user.name "Your Name"
+
 >$ git config --global user.email "email@example.com"
 
 ##### 3. Clone repository

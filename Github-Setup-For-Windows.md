@@ -2,14 +2,15 @@
 
 ##### 1. Configuration in 2 ways
 ###### 1.1 Input your information after login in Github application
-###### 1.2 Open Git Shell and input
+###### 1.2 Open Git Shell(or CMD or PowerShell if available) and input
 
 >$ git config --global user.name “your username”
+
 >$ git config --global user.email “your email address”
 
 ##### 2. Clone
 
-Following command could be used in CMD or Git Shell. You can also use Git application
+Following command could be used in CMD, PowerShell or Git Shell. You can also use Git application
 
 >$ git clone HTTPS_URL_OF_REPOSITORY
 
@@ -18,6 +19,7 @@ Following command could be used in CMD or Git Shell. You can also use Git applic
 ##### 4. Work in your local repository
 
 >$ cd DRIVE:/
+
 >$ cd PATH_OF_FOLDER_NAME/
 
 ##### 5. Add your changes 
