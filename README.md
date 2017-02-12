@@ -1,7 +1,11 @@
 #2017 Purdue Ironhack Tutorials    
    
 
-Welcome to BlackIronhack! This pages aims to introduce you to various technologies that will be required as part of this programming challenge.
+Welcome to BlackIronhack! This pages aims to introduce you to various technologies that will be required as part of this programming challenge. There are three tutorial sessions. 
+ 
+## Session 1
+
+HTML, CSS and Github are introduced in session 1. [Here](https://www.dropbox.com/s/axfbx658qfxznf6/HTML%20CSS%20%26%20Github%20Tutorial.pptx?dl=0) is the slide for training session 1 and sample code is also available [there](session1/html&css).
 
 ### HTML   
 
@@ -14,6 +18,14 @@ CSS stands for Cascading Style Sheets and is a language that describes the style
 <a href="http://www.w3schools.com/css/" target="_blank">CSS Tutorial</a>    
 Writing CSS code with hand is tedious, so generally CSS frameworks like [bootstrap](http://getbootstrap.com/) are used.
 
+### Github
+
+You'll be required to use Github.com for submitting your code to our system. <a href="session1/Github/Github-Tutorial.md" target="_blank">Here</a> is our tutorial on getting setup with Github.com for this hack. You can learn advanced git <a href="https://www.atlassian.com/git/tutorials/what-is-git" target="_blank">here</a>. 
+
+## Session 2
+
+Session 2 is about Javascript and jQuery. [Here](https://www.dropbox.com/s/hmzppk7q73ivg1q/Javascript%20%26%20jQuery.pptx?dl=0) is the slide for training session 2 and [here](session2) is the sample code.
+
 ### Javascript
 
 Javascript is an object-oriented programming language to create interactive effects within web browsers.
@@ -23,6 +35,7 @@ Javascript is an object-oriented programming language to create interactive effe
 jQuery is the most widely used Javascript library, using jQuery would greatly speed up your Javascript programming.
 <a href="http://www.w3schools.com/jquery/" target="_blank">jQuery Tutorial</a>
 
+## Session 3
 
 ### Chart Libraries
 
@@ -40,13 +53,7 @@ For an advanced tutorial, <a href="https://developers.google.com/maps/documentat
 
 ### Datasets   
 
-   
 The rules require you to use one mandatory dataset [Climate Data Online](https://www.ncdc.noaa.gov/cdo-web) and one dataset from either [Data.gov](https://www.data.gov) or [Open Indy Data Portal](http://data.indy.gov/). You can read more about these datasets [here](Datasets.md)
-
-### Github
-
-You'll be required to use Github.com for submitting your code to our system. <a href="session1/Github/Github-Tutorial.md" target="_blank">Here</a> is our tutorial on getting setup with Github.com for this hack. You can learn advanced git <a href="https://www.atlassian.com/git/tutorials/what-is-git" target="_blank">here</a>.   
-
 
 ### Tutorial Project    
 
