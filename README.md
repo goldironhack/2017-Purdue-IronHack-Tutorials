@@ -52,6 +52,8 @@ Here are some useful ones:
 Purdue Ironhacks will involve playing with location data, so Google Maps is a recommended feature to have in your project. <a href="./session3/GoogleMap/Google-Maps-Tutorial.md" target="_blank">Click here</a> for a quick tutorial on Google Maps API.   
 For an advanced tutorial, <a href="https://developers.google.com/maps/documentation/javascript/tutorials/" target="_blank">click here</a>.
 
+## Other material 
+
 ### Datasets   
 
 The rules require you to use one mandatory dataset [Climate Data Online](https://www.ncdc.noaa.gov/cdo-web) and one dataset from either [Data.gov](https://www.data.gov) or [Open Indy Data Portal](http://data.indy.gov/). You can read more about these datasets [here](Datasets.md)
