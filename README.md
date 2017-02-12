@@ -31,6 +31,7 @@ Session 2 is about Javascript and jQuery. [Here](https://www.dropbox.com/s/hmzpp
 Javascript is an object-oriented programming language to create interactive effects within web browsers.
 <a href="http://www.w3schools.com/js/" target="_blank">JS Tutorial</a>   
 
+### jQuery
 
 jQuery is the most widely used Javascript library, using jQuery would greatly speed up your Javascript programming.
 <a href="http://www.w3schools.com/jquery/" target="_blank">jQuery Tutorial</a>
