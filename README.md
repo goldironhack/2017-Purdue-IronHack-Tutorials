@@ -35,7 +35,7 @@ Here are some useful ones:
 
 ### Google Maps Javascript API
 
-Purdue Ironhacks will involve playing with location data, so Google Maps is a recommended feature to have in your project. <a href="./Google-Maps-Tutorial.md" target="_blank">Click here</a> for a quick tutorial on Google Maps API.   
+Purdue Ironhacks will involve playing with location data, so Google Maps is a recommended feature to have in your project. <a href="./session3/GoogleMap/Google-Maps-Tutorial.md" target="_blank">Click here</a> for a quick tutorial on Google Maps API.   
 For an advanced tutorial, <a href="https://developers.google.com/maps/documentation/javascript/tutorials/" target="_blank">click here</a>.
 
 ### Datasets   
@@ -45,7 +45,7 @@ The rules require you to use one mandatory dataset [Climate Data Online](https:/
 
 ### Github
 
-You'll be required to use Github.com for submitting your code to our system. <a href="Github-Tutorial.md" target="_blank">Here</a> is our tutorial on getting setup with Github.com for this hack. You can learn advanced git <a href="https://www.atlassian.com/git/tutorials/what-is-git" target="_blank">here</a>.   
+You'll be required to use Github.com for submitting your code to our system. <a href="session1/Github/Github-Tutorial.md" target="_blank">Here</a> is our tutorial on getting setup with Github.com for this hack. You can learn advanced git <a href="https://www.atlassian.com/git/tutorials/what-is-git" target="_blank">here</a>.   
 
 
 ### Tutorial Project    
