@@ -47,7 +47,7 @@ jQuery is the most widely used Javascript library, using jQuery would greatly sp
 You'll be creating visualizations as part of Purdue Ironhacks, so knowledge of some javascript charting library would be handy.   
 Here are some useful ones:
 + <a href="http://arborjs.org" target="_blank">Arbor.js</a> - A graph visualization library   
-+ <a href="http://d3js.org" target="_blank">D3.js</a> - A library to create interactive graphics and visualizations. For a video tutorial series, you can refer [here](https://www.udemy.com/data-visualize-data-with-d3js-the-easy-way/learn/v4/overview). For credentials, you can login to blackironhack.com. [quiz](https://docs.google.com/forms/d/e/1FAIpQLSfzsqix59bgXxiA2EFdBqja5ofDT8eJw-gaLiAtFt-Ozfmg-Q/viewform?c=0&w=1) for D3.
++ <a href="http://d3js.org" target="_blank">D3.js</a> - A library to create interactive graphics and visualizations. For a video tutorial series, you can refer [here](https://www.udemy.com/data-visualize-data-with-d3js-the-easy-way/learn/v4/overview). For credentials, you can login to blackironhack.com. [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfzsqix59bgXxiA2EFdBqja5ofDT8eJw-gaLiAtFt-Ozfmg-Q/viewform?c=0&w=1) for D3.
 + <a href="http://c3js.org" target="_blank">C3.js</a> - A library built on top of D3.js which allows you create charts with few lines of code. <a href="./Charts-with-c3js-tutorial.md" target="_blank">Click here</a> for a quick tutorial on c3.js    
 + <a href="http://sigmajs.org" target="_blank">Sigma.js</a> - Another graph visualization library   
 
