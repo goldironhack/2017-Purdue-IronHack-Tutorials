@@ -22,6 +22,8 @@ Writing CSS code with hand is tedious, so generally CSS frameworks like [bootstr
 
 You'll be required to use Github.com for submitting your code to our system. <a href="session1/Github/Github-Tutorial.md" target="_blank">Here</a> is our tutorial on getting setup with Github.com for this hack. You can learn advanced git <a href="https://www.atlassian.com/git/tutorials/what-is-git" target="_blank">here</a>. 
 
+After reading and learning, [quizzes](https://docs.google.com/forms/d/e/1FAIpQLSe298sR9yd9-aS-FDcmdcMh-K-qeEZS_GjDlbwyU2OSkeA_Pw/viewform?c=0&w=1) for HTML and CSS must be very helpful for you!
+
 ## Session 2
 
 Session 2 is about Javascript and jQuery. [Here](https://www.dropbox.com/s/hmzppk7q73ivg1q/Javascript%20%26%20jQuery.pptx?dl=0) is the slide for training session 2 and [here](session2) is the sample code.
@@ -36,6 +38,8 @@ Javascript is an object-oriented programming language to create interactive effe
 jQuery is the most widely used Javascript library, using jQuery would greatly speed up your Javascript programming.
 <a href="http://www.w3schools.com/jquery/" target="_blank">jQuery Tutorial</a>
 
+[Quizzes](https://docs.google.com/forms/d/e/1FAIpQLSdzCbNSMh6tKwHfOuXbGob1dSPczeL_rLam0LyBokpnR9bITw/viewform?c=0&w=1) for Javascript and jQuery are also available.
+
 ## Session 3
 
 ### Chart Libraries
@@ -43,7 +47,7 @@ jQuery is the most widely used Javascript library, using jQuery would greatly sp
 You'll be creating visualizations as part of Purdue Ironhacks, so knowledge of some javascript charting library would be handy.   
 Here are some useful ones:
 + <a href="http://arborjs.org" target="_blank">Arbor.js</a> - A graph visualization library   
-+ <a href="http://d3js.org" target="_blank">D3.js</a> - A library to create interactive graphics and visualizations. For a video tutorial series, you can refer [here](https://www.udemy.com/data-visualize-data-with-d3js-the-easy-way/learn/v4/overview). For credentials, you can login to blackironhack.com 
++ <a href="http://d3js.org" target="_blank">D3.js</a> - A library to create interactive graphics and visualizations. For a video tutorial series, you can refer [here](https://www.udemy.com/data-visualize-data-with-d3js-the-easy-way/learn/v4/overview). For credentials, you can login to blackironhack.com. [quiz](https://docs.google.com/forms/d/e/1FAIpQLSfzsqix59bgXxiA2EFdBqja5ofDT8eJw-gaLiAtFt-Ozfmg-Q/viewform?c=0&w=1) for D3.
 + <a href="http://c3js.org" target="_blank">C3.js</a> - A library built on top of D3.js which allows you create charts with few lines of code. <a href="./Charts-with-c3js-tutorial.md" target="_blank">Click here</a> for a quick tutorial on c3.js    
 + <a href="http://sigmajs.org" target="_blank">Sigma.js</a> - Another graph visualization library   
 
