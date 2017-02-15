@@ -42,6 +42,8 @@ jQuery is the most widely used Javascript library, using jQuery would greatly sp
 
 ## Session 3
 
+D3 and Google map API will be introduced in this session. [Here](https://www.dropbox.com/s/nlhph9yphb5vnsm/d3%20Presentation.pptx?dl=0) is the slide for this session.
+
 ### Chart Libraries
 
 You'll be creating visualizations as part of Purdue Ironhacks, so knowledge of some javascript charting library would be handy.   
