@@ -80,7 +80,7 @@ For an advanced tutorial, <a href="https://developers.google.com/maps/documentat
 
 [D3](https://github.com/d3/d3/wiki)
 
-[Google Map API](https://developers.google.com/maps/documentation/javascript/tutorials/")
+[Google Map API](https://developers.google.com/maps/documentation/javascript/tutorial)
 
 ## Other material 
 
