@@ -76,6 +76,12 @@ Here are some useful ones:
 Purdue Ironhacks will involve playing with location data, so Google Maps is a recommended feature to have in your project. <a href="./session3/GoogleMap/Google-Maps-Tutorial.md" target="_blank">Click here</a> for a quick tutorial on Google Maps API.   
 For an advanced tutorial, <a href="https://developers.google.com/maps/documentation/javascript/tutorials/" target="_blank">click here</a>.
 
+#### Official tutorial
+
+[D3](https://github.com/d3/d3/wiki)
+
+[Google Map API](https://developers.google.com/maps/documentation/javascript/tutorials/")
+
 ## Other material 
 
 ### Datasets   
