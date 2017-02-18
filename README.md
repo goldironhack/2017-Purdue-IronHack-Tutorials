@@ -1,93 +1,71 @@
-#2017 Purdue Ironhack Tutorials    
-   
+# 2016 Purdue Ironhack Tutorials    
 
-Welcome to BlackIronhack! This pages aims to introduce you to various technologies that will be required as part of this programming challenge. There are three tutorial sessions. 
- 
+Welcome to Purdue Ironhack! This pages aims to introduce you to various technologies that will be required as part of this programming challenge.
+
 ## Session 1
 
-### 1. HTML   
+### HTML
+**[Tutorial](http://www.w3schools.com/html)** <br>
+**[Sample Project](https://github.com/RCODI/2016-Purdue-Ironhack-Tutorials/tree/master/html_training)** <br>
+**[Quiz](https://goo.gl/9z5ekl)** <br>
 
-HTML is Hyper Text Markup Language which is used to describe web pages.
- 
-
-### 2. CSS    
-
-CSS stands for Cascading Style Sheets and is a language that describes the style of an HTML document.
-  
-Writing CSS code with hand is tedious, so generally CSS frameworks like Bootstrap are used.
-
-### 3. Github
-
-You'll be required to use Github.com for submitting your code to our system. <a href="session1/Github/Github-Tutorial.md" target="_blank">Here</a> is our tutorial on getting setup with Github.com for this hack. 
-
-HTML, CSS and Github are introduced in session 1. For a quick start, you can refer to our tutorial. [Here](https://drive.google.com/open?id=0B9-5urQe7fqLS25WTEtCSzBxTjQ) is the slide for training session 1 and sample code is also available [there](session1/html&css).
-
-After reading and learning, [quizzes](https://docs.google.com/forms/d/e/1FAIpQLSe298sR9yd9-aS-FDcmdcMh-K-qeEZS_GjDlbwyU2OSkeA_Pw/viewform?c=0&w=1) for HTML and CSS must be very helpful for you!
-
-#### Official tutorial
-
-For more detail, Offical tutorial are also available.
-
-<a href="http://www.w3schools.com/html" target="_blank">HTML Tutorial</a> 
-
-<a href="http://www.w3schools.com/css/" target="_blank">CSS Tutorial</a>  
-
-[bootstrap](http://getbootstrap.com/)
-
-<a href="https://www.atlassian.com/git/tutorials/what-is-git" target="_blank">Git</a>
+### CSS
+**[Tutorial](http://www.w3schools.com/css/)** <br>
+&nbsp;&nbsp;&nbsp;&nbsp; **[Bootstrap](http://getbootstrap.com/)** <br>
+**[Sample Project](https://github.com/RCODI/2016-Purdue-Ironhack-Tutorials/blob/master/css/tutorial.css)** <br>
+**[Quiz](https://goo.gl/9z5ekl)** <br>
 
 ## Session 2
 
-### 1. Javascript
-
-Javascript is an object-oriented programming language to create interactive effects within web browsers.
- 
-
-### 2. jQuery
-
-jQuery is the most widely used Javascript library, using jQuery would greatly speed up your Javascript programming.
-
-
-Session 2 is about Javascript and jQuery. [Here](https://drive.google.com/open?id=0B9-5urQe7fqLWjlCdmhidmJJeGs) is the slide for training session 2 and [here](session2) is the sample code.
-
-[Quizzes](https://docs.google.com/forms/d/e/1FAIpQLSdzCbNSMh6tKwHfOuXbGob1dSPczeL_rLam0LyBokpnR9bITw/viewform?c=0&w=1) for Javascript and jQuery are also available.
-
-#### Official tutorial
-
-<a href="http://www.w3schools.com/js/" target="_blank">JS Tutorial</a>  
-
-<a href="http://www.w3schools.com/jquery/" target="_blank">jQuery Tutorial</a>
+### Javascript and jQuery
+**[JS Tutorial](http://www.w3schools.com/js/)** <br>
+**[jQuery Tutorial](http://www.w3schools.com/jquery/)** <br>
+**[Sample Project](https://github.com/RCODI/2016-Purdue-Ironhack-Tutorials/blob/master/js/tutorial.js)** <br>
+**[Quiz](https://goo.gl/2SRfIk)** <br>
 
 ## Session 3
 
-D3 and Google map API will be introduced in this session. [Here](https://drive.google.com/open?id=1paSzazJEQV3jkrPDvGyM6wKifaGgkZwWRotKwvwMNy0) is the slide for this session.
+### D3.js and Google Maps
+**[Tutorial](https://github.com/d3/d3/wiki)** <br>
+**[Sample Project](https://github.com/hermes95/D3-Tutorials)** <br>
+**[Quiz](https://goo.gl/9jn9GV)** <br>
 
-### 1. Chart Libraries
+### Chart Libraries
+You can use chart libraries to create beautiful visualizations <br>
+[Arbor.js](http://arborjs.org) <br>
+[D3.js](http://d3js.org)<br>
+[C3.js](http://c3js.org)<br>
+[Sigma.js](http://sigmajs.org)<br>
 
-You'll be creating visualizations as part of Purdue Ironhacks, so knowledge of some javascript charting library would be handy.   
-Here are some useful ones:
-+ <a href="http://arborjs.org" target="_blank">Arbor.js</a> - A graph visualization library   
-+ <a href="http://d3js.org" target="_blank">D3.js</a> - A library to create interactive graphics and visualizations. For a video tutorial series, you can refer [here](https://www.udemy.com/data-visualize-data-with-d3js-the-easy-way/learn/v4/overview). For credentials, you can login to blackironhack.com. [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfzsqix59bgXxiA2EFdBqja5ofDT8eJw-gaLiAtFt-Ozfmg-Q/viewform?c=0&w=1) for D3.
-+ <a href="http://c3js.org" target="_blank">C3.js</a> - A library built on top of D3.js which allows you create charts with few lines of code. <a href="./Charts-with-c3js-tutorial.md" target="_blank">Click here</a> for a quick tutorial on c3.js    
-+ <a href="http://sigmajs.org" target="_blank">Sigma.js</a> - Another graph visualization library   
+### Google Maps Javascript API
+[Tutorial](https://developers.google.com/maps/documentation/javascript/tutorial) <br>
+[Sample Project](https://developers.google.com/maps/documentation/javascript/earthquakes)<br>
+[Quiz](https://goo.gl/9jn9GV)<br>
 
-### 2. Google Maps Javascript API
+Purdue Ironhacks will involve location data, so it is recommended that you go through the Google Maps Tutorial Guide and the same project linked above
 
-Purdue Ironhacks will involve playing with location data, so Google Maps is a recommended feature to have in your project. <a href="./session3/GoogleMap/Google-Maps-Tutorial.md" target="_blank">Click here</a> for a quick tutorial on Google Maps API.   
-For an advanced tutorial, <a href="https://developers.google.com/maps/documentation/javascript/tutorials/" target="_blank">click here</a>.
+### Datasets
 
-#### Official tutorial
+The rules require that you use at least one dataset in your project
 
-[D3](https://github.com/d3/d3/wiki)
+Available datasets to choose from:
+- [Climate Data Online](https://www.ncdc.noaa.gov/cdo-web)
+- [Data.gov](https://www.data.gov)
+- [Open Indy Data Portal](http://data.indy.gov/)
 
-[Google Map API](https://developers.google.com/maps/documentation/javascript/tutorial)
+You can read more about these datasets [here](Datasets.md)
 
-## Other material 
+### Github
 
-### Datasets   
+You are required to submit code to our system using Github. <br>
 
-The rules require you to use one mandatory dataset [Climate Data Online](https://www.ncdc.noaa.gov/cdo-web) and one dataset from either [Data.gov](https://www.data.gov) or [Open Indy Data Portal](http://data.indy.gov/). You can read more about these datasets [here](Datasets.md)
+[Setup: Windows](Github-Setup-For-Windows.md) <br>
+[Setup: Mac](Github-Setup-For-Mac.md) <br>
+[Getting started](Github-Tutorial.md) <br>
+[Understanding GIT](https://www.atlassian.com/git/tutorials/what-is-git)
 
-### Tutorial Project    
+### Sample Project    
 
-We have made a complete tutorial project using a different problem statement. You can find the tutorial [here](Tutorial Project.md) and demo [here](http://rawgit.com/goldironhack/2017-Purdue-Ironhack-Tutorials/master/2017-Purdue-Ironhacks-Tutorial-Project.html).
+A completed sample project for your reference has been completed, and can be found at the following links:
+- [Sample Project](Tutorial Project.md)
+- [Demo of Sample Project](http://rawgit.com/priyankjain/2016-Purdue-Ironhack-Tutorials/master/2016-Purdue-Ironhacks-Tutorial-Project.html)
