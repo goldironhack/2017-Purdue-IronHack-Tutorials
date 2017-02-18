@@ -6,13 +6,13 @@ Welcome to Purdue Ironhack! This pages aims to introduce you to various technolo
 
 ### HTML
 **[Tutorial](http://www.w3schools.com/html)** <br>
-**[Sample Project](https://github.com/RCODI/2016-Purdue-Ironhack-Tutorials/tree/master/html_training)** <br>
+**[Sample Project](session1/html&css)** <br>
 **[Quiz](https://goo.gl/9z5ekl)** <br>
 
 ### CSS
 **[Tutorial](http://www.w3schools.com/css/)** <br>
 &nbsp;&nbsp;&nbsp;&nbsp; **[Bootstrap](http://getbootstrap.com/)** <br>
-**[Sample Project](https://github.com/RCODI/2016-Purdue-Ironhack-Tutorials/blob/master/css/tutorial.css)** <br>
+**[Sample Project](session1/html&css)** <br>
 **[Quiz](https://goo.gl/9z5ekl)** <br>
 
 ## Session 2
@@ -20,7 +20,7 @@ Welcome to Purdue Ironhack! This pages aims to introduce you to various technolo
 ### Javascript and jQuery
 **[JS Tutorial](http://www.w3schools.com/js/)** <br>
 **[jQuery Tutorial](http://www.w3schools.com/jquery/)** <br>
-**[Sample Project](https://github.com/RCODI/2016-Purdue-Ironhack-Tutorials/blob/master/js/tutorial.js)** <br>
+**[Sample Project](session2/Javascript/example1.html)** <br>
 **[Quiz](https://goo.gl/2SRfIk)** <br>
 
 ## Session 3
