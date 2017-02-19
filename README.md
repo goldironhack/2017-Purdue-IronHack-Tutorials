@@ -20,7 +20,7 @@ Writing CSS code with hand is tedious, so generally CSS frameworks like Bootstra
 
 You'll be required to use Github.com for submitting your code to our system. <a href="session1/Github/Github-Tutorial.md" target="_blank">Here</a> is our tutorial on getting setup with Github.com for this hack. 
 
-HTML, CSS and Github are introduced in session 1. For a quick start, you can refer to our tutorial. [Here](https://drive.google.com/open?id=0B9-5urQe7fqLS25WTEtCSzBxTjQ) is the slide for training session 1 and sample code is also available [there](session1/html&css).
+HTML, CSS and Github are introduced in session 1. For a quick start, you can refer to our tutorial. [Here](https://drive.google.com/open?id=1ROow9rDdBPrJkhUaoTVEoPvAm8mr1j7Xm4oaQH2u-d4) is the slide for training session 1 and sample code is also available [there](session1/html&css).
 
 After reading and learning, [quizzes](https://docs.google.com/forms/d/e/1FAIpQLSe298sR9yd9-aS-FDcmdcMh-K-qeEZS_GjDlbwyU2OSkeA_Pw/viewform?c=0&w=1) for HTML and CSS must be very helpful for you!
 
@@ -48,7 +48,7 @@ Javascript is an object-oriented programming language to create interactive effe
 jQuery is the most widely used Javascript library, using jQuery would greatly speed up your Javascript programming.
 
 
-Session 2 is about Javascript and jQuery. [Here](https://drive.google.com/open?id=0B9-5urQe7fqLWjlCdmhidmJJeGs) is the slide for training session 2 and [here](session2) is the sample code.
+Session 2 is about Javascript and jQuery. [Here](https://drive.google.com/open?id=1OYDpDXJI_I0kP3_MwuqNwsVqt2wb_JwlGoz0Eo7id30) is the slide for training session 2 and [here](session2) is the sample code.
 
 [Quizzes](https://docs.google.com/forms/d/e/1FAIpQLSdzCbNSMh6tKwHfOuXbGob1dSPczeL_rLam0LyBokpnR9bITw/viewform?c=0&w=1) for Javascript and jQuery are also available.
 
@@ -60,7 +60,7 @@ Session 2 is about Javascript and jQuery. [Here](https://drive.google.com/open?i
 
 ## Session 3
 
-D3 and Google map API will be introduced in this session. [Here](https://drive.google.com/open?id=1paSzazJEQV3jkrPDvGyM6wKifaGgkZwWRotKwvwMNy0) is the slide for this session.
+D3 and Google map API will be introduced in this session. [Here](https://docs.google.com/presentation/d/1paSzazJEQV3jkrPDvGyM6wKifaGgkZwWRotKwvwMNy0/edit?usp=sharing) is the slide for this session.
 
 ### 1. Chart Libraries
 
