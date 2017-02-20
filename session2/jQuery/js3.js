@@ -11,5 +11,14 @@ $(document).ready(function(){
 });
 
 function resultsHandler(result){
-	console.log(result);
+	console.log(result.results);
+	var chi = $("<table></table>");
+	chi.append('<tr><th>ID</th><th>MarketName</th></tr>');
+	for(var i = 0; i < result.results.length; ++i){
+		chi.append('<tr><td>' + result.results[i].id + '</td><td>' + result.results[i].marketname + '</td></tr>');
+	}
+//	for(var x in result.results){
+//		chi.append('<tr><td>' + result.results[x].id + '</td><td>' + result.results[x].marketname + '</td></tr>');
+//	}
+	$('body').append(chi);
 }

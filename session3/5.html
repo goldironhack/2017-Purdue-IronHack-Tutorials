@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Example #5</title>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+  </head>
+  <body>
+
+    <script>
+
+      var scale = d3.scaleLinear()
+        .domain([1, 5])   // Data space
+        .range([0, 200]); // Pixel space
+
+      var svg = d3.select("body").append("svg")
+        .attr("width",  250)
+        .attr("height", 250);
+
+      function render(data, color){
+
+        // Bind data
+        var rects = svg.selectAll("rect").data(data);
+
+        // Enter
+        rects.enter().append("rect")
+          .attr("y", 50)
+          .attr("width",  20)
+          .attr("height", 20)
+        .merge(rects) // ENTER + UPDATE
+          .attr("x", scale)
+          .attr("fill", color);
+      }
+
+      render([1, 2, 3], "red");
+      render([1, 2, 3, 4, 5], "blue");
+
+    </script>
+
+  </body>
+</html>
