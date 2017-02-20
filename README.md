@@ -1,4 +1,4 @@
-# 2016 Purdue Ironhack Tutorials    
+# 2017 Purdue Ironhack Tutorials    
 
 Welcome to Purdue Ironhack! This pages aims to introduce you to various technologies that will be required as part of this programming challenge.
 
