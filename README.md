@@ -4,8 +4,7 @@ Welcome to Purdue Ironhack! This pages aims to introduce you to various technolo
 
 ## Session 1
 
-[Here](https://drive.google.com/open?id=1ROow9rDdBPrJkhUaoTVEoPvAm8mr1j7Xm4oaQH2u-d4) is the slide for session 1.
-
+[Presentation](https://drive.google.com/open?id=1ROow9rDdBPrJkhUaoTVEoPvAm8mr1j7Xm4oaQH2u-d4)
 ### HTML
 **[Tutorial](http://www.w3schools.com/html)** <br>
 **[Sample Project](session1/html&css)** <br>
@@ -29,7 +28,7 @@ You are required to submit code to our system using Github. <br>
 
 ## Session 2
 
-[Here](https://drive.google.com/open?id=1OYDpDXJI_I0kP3_MwuqNwsVqt2wb_JwlGoz0Eo7id30) is the slide for session 2.
+[Presentation](https://drive.google.com/open?id=1OYDpDXJI_I0kP3_MwuqNwsVqt2wb_JwlGoz0Eo7id30)
 
 ### Javascript and jQuery
 **[JS Tutorial](http://www.w3schools.com/js/)** <br>
@@ -39,7 +38,7 @@ You are required to submit code to our system using Github. <br>
 
 ## Session 3
 
-[Here](https://docs.google.com/presentation/d/1paSzazJEQV3jkrPDvGyM6wKifaGgkZwWRotKwvwMNy0/edit?usp=sharing) is the slide for this session.
+[Presentation](https://docs.google.com/presentation/d/1paSzazJEQV3jkrPDvGyM6wKifaGgkZwWRotKwvwMNy0/edit?usp=sharing) 
 
 ### D3.js and Google Maps
 **[Tutorial](https://github.com/d3/d3/wiki)** <br>
