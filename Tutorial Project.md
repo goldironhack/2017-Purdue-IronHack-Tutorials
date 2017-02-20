@@ -2,13 +2,13 @@
 ### Introduction   
 
 
-This is a tutorial project for 2016 Purdue BlackIronhack. *__Please note that the topic for this tutorial is not the same as the problem statement for BlackIronHack!__*
+This is a tutorial project for 2017 Purdue BlackIronhack. *__Please note that the topic for this tutorial is not the same as the problem statement for BlackIronHack!__*
 
-The demo site for the project is [here](http://rawgit.com/priyankjain/2016-Purdue-Ironhack-Tutorials/master/2016-Purdue-Ironhacks-Tutorial-Project.html). You may check it out as a reference for your own project. 
+The demo site for the project is [here](http://rawgit.com/goldironhack/2017-Purdue-Ironhack-Tutorials/master/2017-Purdue-Ironhacks-Tutorial-Project.html). You may check it out as a reference for your own project. 
 
 Find more information about Open Innovation and our Research Center of Open Digital Innovation at Purdue University [here](https://www.purdue.edu/opendigital/)
 
-[Git clone](Github-Tutorial.md) this repository and get started with Purdue Ironhacks 2016!
+[Git clone](session1/Github/Github-Tutorial.md) this repository and get started with Purdue Ironhacks 2017!
 
 ### Problem Statement   
    
@@ -104,7 +104,7 @@ The website should optimize the consumers’ choice of the most cost-efficient v
 	> Description of the solution: We provide real-time data about which farm market is the best place to buy today based on your position (IP based) and the main features of each farm market.   
 	> Keywords: Farmer market, Rating, Chicago, Real-time, Position  
 
-   Go through [this tutorial](Github-Tutorial.md) to learn basic github commands
+   Go through [this tutorial](session1/Github/Github-Tutorial.md) to learn basic github commands
 
 
 5. Get familiar with external libraries and API
@@ -248,5 +248,5 @@ The website should optimize the consumers’ choice of the most cost-efficient v
 
    Once the solution is completed, try to asses it with the parameters that were given and improve it as much as you can. Test it out with different test cases and on different browsers.
 
-   You can find a working demo of this tutorial [here](http://rawgit.com/priyankjain/2016-Purdue-Ironhack-Tutorials/master/2016-Purdue-Ironhacks-Tutorial-Project.html).
+   You can find a working demo of this tutorial [here](http://rawgit.com/goldironhack/2017-Purdue-Ironhack-Tutorials/master/2017-Purdue-Ironhacks-Tutorial-Project.html).
    Good luck!

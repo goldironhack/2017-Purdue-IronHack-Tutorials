@@ -16,6 +16,6 @@
 
 ### Climate Data Online
    
-   [Climate Data Online](https://www.ncdc.noaa.gov/cdo-web) provides statistical data related to various aspects of climate and weather like precipitation, temperature, rainfall and so on. The data is available for various levels of granularity - hourly, daily, monthly. You can read about the API [here](www.ncdc.noaa.gov/cdo-web/webservicesa/v2#gettingStarted).
+   [Climate Data Online](https://www.ncdc.noaa.gov/cdo-web) provides statistical data related to various aspects of climate and weather like precipitation, temperature, rainfall and so on. The data is available for various levels of granularity - hourly, daily, monthly. You can read about the API [here](https://www.ncdc.noaa.gov/cdo-web/webservices/v2).
 
 

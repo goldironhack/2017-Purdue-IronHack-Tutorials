@@ -21,10 +21,10 @@ Welcome to Purdue Ironhack! This pages aims to introduce you to various technolo
 
 You are required to submit code to our system using Github. <br>
 
-[Setup: Windows](session/Github/Github-Setup-For-Windows.md) <br>
-[Setup: Mac](session/Github/Github-Setup-For-Mac.md) <br>
-[Setup: Linux](session/Github/Github-Setup-For-Linux.md) <br>
-[Getting started](session/Github/Github-Tutorial.md) <br>
+[Setup: Windows](session1/Github/Github-Setup-For-Windows.md) <br>
+[Setup: Mac](session1/Github/Github-Setup-For-Mac.md) <br>
+[Setup: Linux](session1/Github/Github-Setup-For-Linux.md) <br>
+[Getting started](session1/Github/Github-Tutorial.md) <br>
 [Understanding GIT](https://www.atlassian.com/git/tutorials/what-is-git)
 
 ## Session 2
@@ -34,7 +34,7 @@ You are required to submit code to our system using Github. <br>
 ### Javascript and jQuery
 **[JS Tutorial](http://www.w3schools.com/js/)** <br>
 **[jQuery Tutorial](http://www.w3schools.com/jquery/)** <br>
-**[Sample Project](session2/Javascript/example1.html)** <br>
+**[Sample Project](session2/)** <br>
 **[Quiz](https://goo.gl/2SRfIk)** <br>
 
 ## Session 3
