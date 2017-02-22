@@ -21,8 +21,8 @@ Welcome to Purdue Ironhack! This pages aims to introduce you to various technolo
 You are required to submit code to our system using Github. <br>
 
 
-[Getting started](session1/Github/Github-Tutorial.md) <br>
-[Understanding GIT](https://www.atlassian.com/git/tutorials/what-is-git)
+**[Getting started](session1/Github/Github-Tutorial.md)** <br>
+**[Understanding GIT](https://www.atlassian.com/git/tutorials/what-is-git)**
 
 ## Session 2
 
@@ -45,15 +45,15 @@ You are required to submit code to our system using Github. <br>
 
 ### Chart Libraries
 You can use chart libraries to create beautiful visualizations <br>
-[Arbor.js](http://arborjs.org) <br>
-[D3.js](http://d3js.org)<br>
-[C3.js](http://c3js.org)<br>
-[Sigma.js](http://sigmajs.org)<br>
+**[Arbor.js](http://arborjs.org)** <br>
+**[D3.js](http://d3js.org)**<br>
+**[C3.js](http://c3js.org)**<br>
+**[Sigma.js](http://sigmajs.org)**<br>
 
 ### Google Maps Javascript API
-[Tutorial](https://developers.google.com/maps/documentation/javascript/tutorial) <br>
-[Sample Project](https://developers.google.com/maps/documentation/javascript/earthquakes)<br>
-[Quiz](https://goo.gl/9jn9GV)<br>
+**[Tutorial](https://developers.google.com/maps/documentation/javascript/tutorial)** <br>
+**[Sample Project](https://developers.google.com/maps/documentation/javascript/earthquakes)**<br>
+**[Quiz](https://goo.gl/9jn9GV)**<br>
 
 Purdue Ironhacks will involve location data, so it is recommended that you go through the Google Maps Tutorial Guide and the same project linked above
 
@@ -62,9 +62,9 @@ Purdue Ironhacks will involve location data, so it is recommended that you go th
 The rules require that you use at least one dataset in your project
 
 Available datasets to choose from:
-- [Climate Data Online](https://www.ncdc.noaa.gov/cdo-web)
-- [Data.gov](https://www.data.gov)
-- [Open Indy Data Portal](http://data.indy.gov/)
+- **[Climate Data Online](https://www.ncdc.noaa.gov/cdo-web)**
+- **[Data.gov](https://www.data.gov)**
+- **[Open Indy Data Portal](http://data.indy.gov/)**
 
 You can read more about these datasets [here](Datasets.md). There are 50 datasets for [reference](https://www.dropbox.com/s/0kjm8727voekzhb/verified50datasets.docx?dl=0).
 
@@ -72,5 +72,5 @@ You can read more about these datasets [here](Datasets.md). There are 50 dataset
 ### Sample Project    
 
 A completed sample project for your reference has been completed, and can be found at the following links:
-- [Sample Project](Tutorial Project.md)
-- [Demo of Sample Project](http://rawgit.com/goldironhack/2017-Purdue-Ironhack-Tutorials/master/2017-Purdue-Ironhacks-Tutorial-Project.html)
+- **[Sample Project](Tutorial Project.md)**
+- **[Demo of Sample Project](http://rawgit.com/goldironhack/2017-Purdue-Ironhack-Tutorials/master/2017-Purdue-Ironhacks-Tutorial-Project.html)**
