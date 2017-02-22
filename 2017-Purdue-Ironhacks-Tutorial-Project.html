@@ -25,34 +25,35 @@
   </head>
   <body>
   	<div class="container">
-  	<div class="container-fluid">
   		<div class="row">
   			<div id="col-md-12">
   				<h3>2017 Purdue Ironhacks Tutorial Project</h3>
   			</div>
   		</div>
   		<div class="row">			
-			<div id="side-menu" class="col-md-5 jumbotron" >
-				<div id="menu-cover">
-					<div id="basic-info">
-						<div id="weather"></div>
+			<div id="side-menu" class="col-md-4 " >
+				<div class="jumbotron">
+					<div id="menu-cover">
+						<div id="basic-info">
+							<div id="weather"></div>
+						</div>
+						<div id="position-info">
+							<div id="market-name"></div>
+							<div id="website"></div>
+							<div id="street-name"></div>
+							<div id="open-status"></div>
+						</div>
+						<div id="chart">
+						</div>
+						<div id="scores"></div>
 					</div>
-					<div id="position-info">
-						<div id="market-name"></div>
-						<div id="website"></div>
-						<div id="street-name"></div>
-						<div id="open-status"></div>
-					</div>
-					<div id="chart">
-					</div>
-					<div id="scores"></div>
 				</div>
 			</div>
-			<div class="col-md-6" id="map">
+			<div class="col-md-8">
+				<div id="map"></div>
 			</div>
-			<div class="col-md-1"></div>
+			
 		</div>
-	</div>
 	</div>	
 
 	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCC4lO1PjOC9xzRaOK86FJoht6VBFYcsB8&callback=initMap"></script>
