@@ -20,9 +20,7 @@ Welcome to Purdue Ironhack! This pages aims to introduce you to various technolo
 
 You are required to submit code to our system using Github. <br>
 
-[Setup: Windows](session1/Github/Github-Setup-For-Windows.md) <br>
-[Setup: Mac](session1/Github/Github-Setup-For-Mac.md) <br>
-[Setup: Linux](session1/Github/Github-Setup-For-Linux.md) <br>
+
 [Getting started](session1/Github/Github-Tutorial.md) <br>
 [Understanding GIT](https://www.atlassian.com/git/tutorials/what-is-git)
 
