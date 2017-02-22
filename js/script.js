@@ -94,6 +94,14 @@ function myRequestFunction(arr) {
     document.getElementById("id01").innerHTML = out;
 }
 
+/*
+$(window).resize(function () {
+    var h = $(window).height(),
+        offsetTop = 60; // Calculate the top offset
+
+    $('#map').css('height', (h - offsetTop));
+}).resize();
+*/
 
 
 

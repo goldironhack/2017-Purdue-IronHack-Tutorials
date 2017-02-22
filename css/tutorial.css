@@ -11,7 +11,8 @@ padding: 0;
 #map{
 	margin-top: 10px;
 	position: absolute;
-    height: 90%;
+    height: 700px;
+    width: 100%;
     padding: 2px;
     display: block;
 }
@@ -22,6 +23,6 @@ padding: 0;
 #side-menu{
 	margin-top: 10px;
 	display: block;
-	float: right;
 	height: 90%;
+	
 }	
