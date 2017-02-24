@@ -1,6 +1,6 @@
 # 2017 Purdue Gold Ironhacks Tutorials    
 
-Welcome to Purdue Ironhack! This pages aims to introduce you to various technologies that will be required as part of this programming challenge.
+Welcome to Purdue Gold Ironhacks! These pages aim to introduce you to various technologies that will be required as part of this programming challenge.
 
 ## Session 1
 
