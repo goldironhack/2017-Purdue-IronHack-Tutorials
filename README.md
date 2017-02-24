@@ -1,10 +1,10 @@
-# 2017 Purdue Ironhack Tutorials    
+# 2017 Purdue Gold Ironhacks Tutorials    
 
 Welcome to Purdue Ironhack! This pages aims to introduce you to various technologies that will be required as part of this programming challenge.
 
 ## Session 1
 
-**[Presentation](https://drive.google.com/open?id=1ROow9rDdBPrJkhUaoTVEoPvAm8mr1j7Xm4oaQH2u-d4)** -- Slide for Session 1
+**[Presentation](https://drive.google.com/open?id=1ROow9rDdBPrJkhUaoTVEoPvAm8mr1j7Xm4oaQH2u-d4)** -- Slides for Session 1
 ### HTML
 **[Tutorial](http://www.w3schools.com/html)** -- An offical tutorial for HTML<br>
 **[Sample Project](session1/html&css)** -- Simple project fot HTML and CSS<br>
@@ -26,7 +26,7 @@ You are required to submit code to our system using Github. <br>
 
 ## Session 2
 
-**[Presentation](https://drive.google.com/open?id=1OYDpDXJI_I0kP3_MwuqNwsVqt2wb_JwlGoz0Eo7id30)** -- Slide for Session 2
+**[Presentation](https://drive.google.com/open?id=1OYDpDXJI_I0kP3_MwuqNwsVqt2wb_JwlGoz0Eo7id30)** -- Slides for Session 2
 
 ### Javascript and jQuery
 **[JS Tutorial](http://www.w3schools.com/js/)** -- An offical tutorial for Javascript<br>
@@ -36,7 +36,7 @@ You are required to submit code to our system using Github. <br>
 
 ## Session 3
 
-**[Presentation](https://docs.google.com/presentation/d/1paSzazJEQV3jkrPDvGyM6wKifaGgkZwWRotKwvwMNy0/edit?usp=sharing)** -- Slide for Session 3
+**[Presentation](https://docs.google.com/presentation/d/1paSzazJEQV3jkrPDvGyM6wKifaGgkZwWRotKwvwMNy0/edit?usp=sharing)** -- Slides for Session 3
 
 ### D3.js and Google Maps
 **[Tutorial](https://github.com/d3/d3/wiki)** -- An offical tutorial for D3<br> 
