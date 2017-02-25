@@ -40,7 +40,7 @@ You are required to submit code to our system using Github. <br>
 
 ### D3.js and Google Maps
 **[Tutorial](https://github.com/d3/d3/wiki)** -- An offical tutorial for D3<br> 
-**[Sample Project](https://github.com/goldironhack/2017-Purdue-Ironhack-Tutorials/tree/master/session3/d3_tutorial)** -- Our simple project for D3<br>
+**[Sample Project](https://github.com/goldironhack/2017-Purdue-Ironhack-Tutorials/tree/master/session3/D3_tutorial)** -- Our simple project for D3<br>
 **[Quiz](https://purdue.qualtrics.com/jfe/form/SV_71xEzp5vQ7rC817)** -- Quiz for D3<br>
 
 ### Chart Libraries
