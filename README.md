@@ -40,7 +40,7 @@ You are required to submit code to our system using Github. <br>
 
 ### D3.js and Google Maps
 **[Tutorial](https://github.com/d3/d3/wiki)** -- An offical tutorial for D3<br> 
-**[Sample Project](https://github.com/hermes95/D3-Tutorials)** -- Our simple project for D3<br>
+**[Sample Project](https://github.com/goldironhack/2017-Purdue-Ironhack-Tutorials/tree/master/session3/d3_tutorial)** -- Our simple project for D3<br>
 **[Quiz](https://purdue.qualtrics.com/jfe/form/SV_71xEzp5vQ7rC817)** -- Quiz for D3<br>
 
 ### Chart Libraries
@@ -51,8 +51,10 @@ You can use chart libraries to create beautiful visualizations <br>
 **[Sigma.js](http://sigmajs.org)**<br>
 
 ### Google Maps Javascript API
-**[Tutorial](https://developers.google.com/maps/documentation/javascript/tutorial)** -- Offical tutorial for Google Map API<br>
-**[Sample Project](https://developers.google.com/maps/documentation/javascript/earthquakes)** -- Offical tutorial for Google Map API<br>
+**[Offical Tutorial](https://developers.google.com/maps/documentation/javascript/tutorial)** -- Offical tutorial for Google Map API<br>
+**[Sample Tutorial](https://github.com/goldironhack/2017-Purdue-Ironhack-Tutorials/blob/master/session3/GoogleMap/Google-Maps-Tutorial.md)** -- A sample tutorial for Google Map API <br>
+**[Offical Project](https://developers.google.com/maps/documentation/javascript/earthquakes)** -- Offical tutorial for Google Map API<br>
+
 
 Purdue Gold Ironhacks will involve location data, so it is recommended that you go through the Google Maps Tutorial Guide and the same project linked above
 
@@ -72,4 +74,4 @@ You can read more about these datasets [here](Datasets.md). There are 50 dataset
 
 A completed sample project for your reference has been completed, and can be found at the following link. In this sample project, AJAX is used for data retrieval, Google Map Api and D3 are applied for data display. 
 
-- **[Demo of Sample Project](http://rawgit.com/goldironhack/2017-Purdue-Ironhack-Tutorials/master/2017-Purdue-Ironhacks-Tutorial-Project.html)**
+- **[Demo of Sample Project](http://rawgit.com/goldironhack/2017-Purdue-Ironhack-Tutorials/master/sample_project/2017-Purdue-Ironhacks-Tutorial-Project.html)**
