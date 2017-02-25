@@ -8,13 +8,13 @@ Welcome to Purdue Gold Ironhacks! These pages aim to introduce you to various te
 ### HTML
 **[Tutorial](http://www.w3schools.com/html)** -- An offical tutorial for HTML<br>
 **[Sample Project](session1/html&css)** -- Simple project fot HTML and CSS<br>
-**[Quiz](https://goo.gl/9z5ekl)** -- A quiz for HTML<br>
 
 ### CSS
 **[Tutorial](http://www.w3schools.com/css/)** -- An offical tutorial for CSS<br>
 &nbsp;&nbsp;&nbsp;&nbsp; **[Bootstrap](http://getbootstrap.com/)** -- Offical website for Bootstrap<br>
 **[Sample Project](session1/html&css)** -- Simple project fot HTML and CSS<br>
-**[Quiz](https://goo.gl/9z5ekl)** -- Aquiz for CSS<br>
+
+**[Quiz](https://purdue.qualtrics.com/jfe/form/SV_do6Sc9VJsAMmOih)** -- Aquiz for HTML and CSS<br>
 
 ### Github
 
@@ -32,7 +32,7 @@ You are required to submit code to our system using Github. <br>
 **[JS Tutorial](http://www.w3schools.com/js/)** -- An offical tutorial for Javascript<br>
 **[jQuery Tutorial](http://www.w3schools.com/jquery/)** -- An offical tutorial for jQuery<br>
 **[Sample Project](session2/)** -- Simple project for Javascript and jQuery<br>
-**[Quiz](https://goo.gl/2SRfIk)** -- Quiz for Javascript and jQuery<br>
+**[Quiz](https://purdue.qualtrics.com/jfe3/form/SV_b8zyxX8wozQfNul)** -- Quiz for Javascript and jQuery<br>
 
 ## Session 3
 
@@ -41,7 +41,7 @@ You are required to submit code to our system using Github. <br>
 ### D3.js and Google Maps
 **[Tutorial](https://github.com/d3/d3/wiki)** -- An offical tutorial for D3<br> 
 **[Sample Project](https://github.com/hermes95/D3-Tutorials)** -- Our simple project for D3<br>
-**[Quiz](https://goo.gl/9jn9GV)** -- Quiz for D3<br>
+**[Quiz](https://purdue.qualtrics.com/jfe/form/SV_71xEzp5vQ7rC817)** -- Quiz for D3<br>
 
 ### Chart Libraries
 You can use chart libraries to create beautiful visualizations <br>
