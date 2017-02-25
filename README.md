@@ -14,7 +14,7 @@ Welcome to Purdue Gold Ironhacks! These pages aim to introduce you to various te
 &nbsp;&nbsp;&nbsp;&nbsp; **[Bootstrap](http://getbootstrap.com/)** -- Offical website for Bootstrap<br>
 **[Sample Project](session1/html&css)** -- Simple project fot HTML and CSS<br>
 
-**[Quiz](https://purdue.qualtrics.com/jfe/form/SV_do6Sc9VJsAMmOih)** -- Aquiz for HTML and CSS<br>
+**[Quiz](https://purdue.qualtrics.com/jfe/form/SV_do6Sc9VJsAMmOih)** -- A quiz for HTML and CSS<br>
 
 ### Github
 
@@ -22,7 +22,7 @@ You are required to submit code to our system using Github. <br>
 
 
 **[Getting started](session1/Github/Github-Tutorial.md)** -- A simple introduction for Git and Github, such as how to install and basic usage<br>
-**[Understanding GIT](https://www.atlassian.com/git/tutorials/what-is-git)** -- A good tutorial
+**[Understanding GIT](https://www.atlassian.com/git/tutorials/what-is-git)** -- A good tutorial for Git
 
 ## Session 2
 
@@ -54,7 +54,7 @@ You can use chart libraries to create beautiful visualizations <br>
 **[Tutorial](https://developers.google.com/maps/documentation/javascript/tutorial)** -- Offical tutorial for Google Map API<br>
 **[Sample Project](https://developers.google.com/maps/documentation/javascript/earthquakes)** -- Offical tutorial for Google Map API<br>
 
-Purdue Ironhacks will involve location data, so it is recommended that you go through the Google Maps Tutorial Guide and the same project linked above
+Purdue Gold Ironhacks will involve location data, so it is recommended that you go through the Google Maps Tutorial Guide and the same project linked above
 
 ### Datasets
 
