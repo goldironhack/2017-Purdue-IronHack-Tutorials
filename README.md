@@ -67,7 +67,7 @@ Available datasets to choose from:
 - **[Data.gov](https://www.data.gov)**
 - **[Open Indy Data Portal](http://data.indy.gov/)**
 
-You can read more about these datasets [here](Datasets.md). There are 50 datasets for [reference](https://www.dropbox.com/s/0kjm8727voekzhb/verified50datasets.docx?dl=0).
+You can read more about these datasets [here](Datasets.md). There are 50 datasets for [reference](https://www.dropbox.com/s/xsr4ytln2hvn3ah/verified50datasets_vegetables.docx?dl=0).
 
 
 ### Sample Project    
