@@ -1,4 +1,4 @@
-# 2017 Purdue Gold IronHacks Tutorials    
+# Purdue Gold IronHacks Spring 2017 Tutorials    
 
 Welcome to Purdue Gold IronHacks! These pages aim to introduce you to various technologies that will be required as part of this programming challenge.
 
