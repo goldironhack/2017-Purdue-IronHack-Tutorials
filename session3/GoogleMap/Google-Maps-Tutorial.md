@@ -12,7 +12,7 @@ This tutorial shows you how to add a simple Google map to a web page. We'll crea
 <!DOCTYPE html>
 <html>
   <head>
-  	<title>Purdue Ironhacks Google Maps Demo</title>
+  	<title>Google Maps Demo</title>
     <style>
       #map {
         width: 100%;
@@ -22,7 +22,7 @@ This tutorial shows you how to add a simple Google map to a web page. We'll crea
     </style>
   </head>
   <body>
-    <h3>Purdue Ironhacks Google Maps Demo</h3>
+    <h3>Google Maps Demo</h3>
     <div id="map"></div>
   </body>
 </html>
@@ -103,7 +103,7 @@ The final code file looks like below:
 <!DOCTYPE html>
 <html>
   <head>
-  	<title>Purdue Ironhacks Google Maps Demo</title>
+  	<title>Google Maps Demo</title>
     <style>
       #map {
         width: 100%;
@@ -126,7 +126,7 @@ The final code file looks like below:
 	</script>
   </head>
   <body>
-    <h3>Purdue Ironhacks Google Maps Demo</h3>
+    <h3>Google Maps Demo</h3>
     <div id="map"></div>
   </body>
   <script async defer
@@ -135,4 +135,4 @@ The final code file looks like below:
 </html>
 ```
 
-Here is the code in action: [Purdue Ironhacks Google Maps Demo](https://rawgit.com/priyankjain/2016-Purdue-Ironhack-Tutorials/master/Google-Maps-Demo.html) 
+Here is the code in action: [Google Maps Demo](https://rawgit.com/goldironhack/2017-Purdue-IronHack-Tutorials/master/session3/GoogleMap/Google-Maps-Demo.html) 
