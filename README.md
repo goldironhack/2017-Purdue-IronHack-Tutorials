@@ -74,4 +74,4 @@ You can read more about these datasets [here](Datasets.md). There are 50 dataset
 
 A completed sample project for your reference has been completed, and can be found at the following link. In this sample project, AJAX is used for data retrieval, Google Map Api and D3 are applied for data display. 
 
-- **[Demo of Sample Project](http://rawgit.com/goldironhack/2017-Purdue-Ironhack-Tutorials/master/sample_project/2017-Purdue-Ironhacks-Tutorial-Project.html)**
+- **[Demo of Sample Project](http://rawgit.com/goldironhack/2017-Purdue-IronHack-Tutorials/master/sample_project/2017-Purdue-IronHacks-Tutorial-Project.html)**
