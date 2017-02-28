@@ -1,6 +1,6 @@
 # Purdue Gold IronHacks Spring 2017 Tutorials    
 
-Welcome to Purdue Gold IronHacks Spring 2017! These pages aim to introduce you to various technologies that will be required as part of this programming challenge.
+Welcome to Purdue Gold IronHacks Spring 2017! These pages aim to introduce you to various technologies that will be required as part of this programming challenge. We kindly ask you to complete the material before the competition starts on March 28th, 2017.
 
 ## Session 1
 <i><small>(please complete in the week of March 6th to March 12th)</small></i>
