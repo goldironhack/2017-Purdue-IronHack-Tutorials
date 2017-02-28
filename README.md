@@ -1,6 +1,6 @@
 # Purdue Gold IronHacks Spring 2017 Tutorials    
 
-Welcome to Purdue Gold IronHacks! These pages aim to introduce you to various technologies that will be required as part of this programming challenge.
+Welcome to Purdue Gold IronHacks Spring 2017! These pages aim to introduce you to various technologies that will be required as part of this programming challenge.
 
 ## Session 1
 
@@ -56,7 +56,7 @@ You can use chart libraries to create beautiful visualizations <br>
 **[Offical Project](https://developers.google.com/maps/documentation/javascript/earthquakes)** -- Offical tutorial for Google Map API<br>
 
 
-Purdue Gold IronHacks will involve location data, so it is recommended that you go through the Google Maps Tutorial Guide and the same project linked above
+Purdue Gold IronHacks Spring 2017 will involve location data, so it is recommended that you go through the Google Maps Tutorial Guide and the same project linked above
 
 ### Datasets
 
