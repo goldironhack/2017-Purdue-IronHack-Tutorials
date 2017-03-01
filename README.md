@@ -3,7 +3,7 @@
 Welcome to Purdue Gold IronHacks Spring 2017! These pages aim to introduce you to various technologies that will be required as part of this programming challenge. We kindly ask you to complete the material before the competition starts on March 28th, 2017.
 
 ## Session 1
-<i><small>(please complete in the week of March 6th to March 12th)</small></i>
+<i><small>(please complete in the week of March 6th to March 10th)</small></i>
 
 **[Presentation](https://drive.google.com/open?id=1ROow9rDdBPrJkhUaoTVEoPvAm8mr1j7Xm4oaQH2u-d4)** -- Slides for Session 1
 ### HTML
@@ -26,7 +26,7 @@ You are required to submit code to our system using Github. <br>
 **[Understanding GIT](https://www.atlassian.com/git/tutorials/what-is-git)** -- A good tutorial for Git
 
 ## Session 2
-<small><i>(please complete in the week of March 13th to March 19th)</i></small>
+<small><i>(please complete in the week of March 20th to March 23th)</i></small>
 
 **[Presentation](https://drive.google.com/open?id=1OYDpDXJI_I0kP3_MwuqNwsVqt2wb_JwlGoz0Eo7id30)** -- Slides for Session 2
 
@@ -38,7 +38,7 @@ You are required to submit code to our system using Github. <br>
 Quiz “Javascript & jQuery” for week 2: We strongly recommend that you take your Quiz that is available on our [platform](http://www.ironhacks.com) (sign-in to your contest). 
 
 ## Session 3
-<small><i>(please complete in the week of March 20th to March 26th)</i></small>
+<small><i>(please complete in the week of March 24th to March 28th)</i></small>
 
 **[Presentation](https://docs.google.com/presentation/d/1paSzazJEQV3jkrPDvGyM6wKifaGgkZwWRotKwvwMNy0/edit?usp=sharing)** -- Slides for Session 3
 
