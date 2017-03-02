@@ -1,4 +1,4 @@
-### Github Setup For Linux Users
+### GitHub Setup For Linux Users
 
 ##### 1. Open your terminal
 ##### 2. Configure your information
@@ -11,7 +11,7 @@
 
 >$ git clone HTTPS_URL_OF_REPOSITORY
 
-##### 4. Input your username and password on Github when prompted if your are cloning a private repository
+##### 4. Input your username and password on GitHub when prompted if your are cloning a private repository
 
 ##### 5. Work in your local repository
 

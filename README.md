@@ -17,12 +17,12 @@ Welcome to Purdue Gold IronHacks Spring 2017! These pages aim to introduce you t
 
 Quiz “HTML&CSS” for week 1: We strongly recommend that you take your [Quiz](http://www.ironhacks.com/quizzes) that is available on our platform. (sign-in to your contest).<br>
 
-### Github
+### GitHub
 
-You are required to submit code to our system using Github. <br>
+You are required to submit code to our system using GitHub. <br>
 
 
-**[Getting started](session1/Github/Github-Tutorial.md)** -- A simple introduction for Git and Github, such as how to install and basic usage<br>
+**[Getting started](session1/Github/Github-Tutorial.md)** -- A simple introduction for Git and GitHub, such as how to install and basic usage<br>
 **[Understanding GIT](https://www.atlassian.com/git/tutorials/what-is-git)** -- A good tutorial for Git
 
 ## Session 2

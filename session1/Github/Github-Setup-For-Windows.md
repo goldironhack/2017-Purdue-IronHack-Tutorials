@@ -1,7 +1,7 @@
-### Github setup for Windows
+### GitHub setup for Windows
 
 ##### 1. Configuration in 2 ways
-###### 1.1 Input your information after login in Github application
+###### 1.1 Input your information after login in GitHub application
 ###### 1.2 Open Git Shell(or CMD or PowerShell if available) and input
 
 >$ git config --global user.name “your username”
@@ -14,7 +14,7 @@ Following command could be used in CMD, PowerShell or Git Shell. You can also us
 
 >$ git clone HTTPS_URL_OF_REPOSITORY
 
-##### 3. Input your username and password on Github when prompted if your are cloning a private repository
+##### 3. Input your username and password on GitHub when prompted if your are cloning a private repository
 
 ##### 4. Work in your local repository
 
