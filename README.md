@@ -78,7 +78,7 @@ You can use chart libraries to create beautiful visualizations <br>
 
 Please follow along these videos to complete the sample project. 
 
-[Quiz - d3](http://www.ironhacks.com/quizzes)Quiz “d3” for week 3: We strongly recommend that you take thsi quiz. (sign-in to your contest).<br>
+**[Quiz - d3](http://www.ironhacks.com/quizzes)**: Quiz “d3” for week 3: We strongly recommend that you take thsi quiz. (sign-in to your contest).<br>
 
 ### Google Maps Javascript API
 **[Offical Tutorial](https://developers.google.com/maps/documentation/javascript/tutorial)** -- Offical tutorial for Google Map API<br>
