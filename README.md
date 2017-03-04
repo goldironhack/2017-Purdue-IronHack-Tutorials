@@ -16,8 +16,8 @@ Welcome to Purdue Gold IronHacks Spring 2017! These pages aim to introduce you t
 **[Sample Project](session1/html&css)** -- Simple project fot HTML and CSS<br>
 
 ### Videos for Sample Projects
-**[HTML & CSS 1](https://drive.google.com/open?id=0B-DRvJb6N3IiSXFMQkR1LVFvQTA)** 
-**[HTML & CSS 2](https://drive.google.com/open?id=0B-DRvJb6N3IidUZDS0d5TVBnb1E)**
+**[HTML & CSS 1](https://drive.google.com/open?id=0B-DRvJb6N3IiSXFMQkR1LVFvQTA)** <br>
+**[HTML & CSS 2](https://drive.google.com/open?id=0B-DRvJb6N3IidUZDS0d5TVBnb1E)** <br>
 
 Please follow along these videos to complete the sample project.
 
@@ -43,12 +43,12 @@ You are required to submit code to our system using GitHub. <br>
 **[Sample Project](session2/)** -- Simple project for Javascript and jQuery<br>
 
 ### Videos for Sample Projects
-**[JavaScript 1](https://drive.google.com/open?id=0B9-5urQe7fqLRWpzcl9ZQnN6VDQ)** 
-**[JavaScript 2](https://drive.google.com/open?id=0B9-5urQe7fqLUnpNQ3BQcWdoR00)** 
-**[JavaScript 3](https://drive.google.com/open?id=0B9-5urQe7fqLVk1Ebk9DU2g2SFU)** 
-**[jQuery 1](https://drive.google.com/open?id=0B9-5urQe7fqLSEZpSWFvdlR1aTA)** 
-**[jQuery 2](https://drive.google.com/open?id=0B9-5urQe7fqLRW45aHdYZVZMQ1k)** 
-**[jQuery 3](https://drive.google.com/open?id=0B9-5urQe7fqLT181QTBfMXRyUFk)** 
+**[JavaScript 1](https://drive.google.com/open?id=0B9-5urQe7fqLRWpzcl9ZQnN6VDQ)** <br>
+**[JavaScript 2](https://drive.google.com/open?id=0B9-5urQe7fqLUnpNQ3BQcWdoR00)** <br>
+**[JavaScript 3](https://drive.google.com/open?id=0B9-5urQe7fqLVk1Ebk9DU2g2SFU)** <br>
+**[jQuery 1](https://drive.google.com/open?id=0B9-5urQe7fqLSEZpSWFvdlR1aTA)** <br>
+**[jQuery 2](https://drive.google.com/open?id=0B9-5urQe7fqLRW45aHdYZVZMQ1k)** <br>
+**[jQuery 3](https://drive.google.com/open?id=0B9-5urQe7fqLT181QTBfMXRyUFk)** <br>
 
 Please follow along these videos to complete the sample project.
 
@@ -71,10 +71,10 @@ You can use chart libraries to create beautiful visualizations <br>
 **[Sigma.js](http://sigmajs.org)**<br>
 
 ### Videos for Sample Projects
-**[d3.js 1](https://drive.google.com/open?id=0B-DRvJb6N3IiLXZDSFR2ZHF5NFE)** 
-**[d3.js 2](https://drive.google.com/open?id=0B-DRvJb6N3IiYm5hclVxRk9pcEE)** 
-**[d3.js 3](https://drive.google.com/open?id=0B-DRvJb6N3Iic25BWkJ5eXpNb1E)** 
-**[d3.js 4](https://drive.google.com/open?id=0B-DRvJb6N3IiVno4eGZQNnItMnM)** 
+**[d3.js 1](https://drive.google.com/open?id=0B-DRvJb6N3IiLXZDSFR2ZHF5NFE)** <br>
+**[d3.js 2](https://drive.google.com/open?id=0B-DRvJb6N3IiYm5hclVxRk9pcEE)** <br>
+**[d3.js 3](https://drive.google.com/open?id=0B-DRvJb6N3Iic25BWkJ5eXpNb1E)** <br>
+**[d3.js 4](https://drive.google.com/open?id=0B-DRvJb6N3IiVno4eGZQNnItMnM)** <br>
 
 Please follow along these videos to complete the sample project. 
 
