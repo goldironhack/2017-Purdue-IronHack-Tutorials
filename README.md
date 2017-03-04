@@ -45,7 +45,7 @@ You are required to submit code to our system using GitHub. <br>
 ### Videos for Sample Projects
 **[JavaScript 1](https://drive.google.com/open?id=0B9-5urQe7fqLRWpzcl9ZQnN6VDQ)** <br>
 **[JavaScript 2](https://drive.google.com/open?id=0B9-5urQe7fqLUnpNQ3BQcWdoR00)** <br>
-**[JavaScript 3](https://drive.google.com/open?id=0B9-5urQe7fqLVk1Ebk9DU2g2SFU)** <br>
+**[JavaScript 3](https://drive.google.com/open?id=0B9-5urQe7fqLWVdaWlpxQUNUMG8)** <br>
 **[jQuery 1](https://drive.google.com/open?id=0B9-5urQe7fqLSEZpSWFvdlR1aTA)** <br>
 **[jQuery 2](https://drive.google.com/open?id=0B9-5urQe7fqLRW45aHdYZVZMQ1k)** <br>
 **[jQuery 3](https://drive.google.com/open?id=0B9-5urQe7fqLT181QTBfMXRyUFk)** <br>
