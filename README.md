@@ -7,12 +7,12 @@ Welcome to Purdue Gold IronHacks Spring 2017! These pages aim to introduce you t
 
 **[Presentation](https://drive.google.com/open?id=1ROow9rDdBPrJkhUaoTVEoPvAm8mr1j7Xm4oaQH2u-d4)** -- Slides for Session 1
 ### HTML
-**[Tutorial](http://www.w3schools.com/html)** -- An offical tutorial for HTML<br>
+**[Tutorial](http://www.w3schools.com/html)** -- An official tutorial for HTML<br>
 **[Sample Project](session1/html&css)** -- Our simple project for HTML and CSS specifically developed for IronHacks<br>
 
 ### CSS
-**[Tutorial](http://www.w3schools.com/css/)** -- An offical tutorial for CSS<br>
-**[Bootstrap](http://getbootstrap.com/)** -- Offical website for Bootstrap<br>
+**[Tutorial](http://www.w3schools.com/css/)** -- An official tutorial for CSS<br>
+**[Bootstrap](http://getbootstrap.com/)** -- Official website for Bootstrap<br>
 **[Sample Project](session1/html&css)** -- Our simple project for HTML and CSS specifically developed for IronHacks<br>
 
 ### Videos for Sample Projects
@@ -38,8 +38,8 @@ You are required to submit code to our system using GitHub <br>
 **[Presentation](https://drive.google.com/open?id=1OYDpDXJI_I0kP3_MwuqNwsVqt2wb_JwlGoz0Eo7id30)** -- Slides for Session 2
 
 ### Javascript and jQuery
-**[JS Tutorial](http://www.w3schools.com/js/)** -- An offical tutorial for Javascript<br>
-**[jQuery Tutorial](http://www.w3schools.com/jquery/)** -- An offical tutorial for jQuery<br>
+**[JS Tutorial](http://www.w3schools.com/js/)** -- An official tutorial for Javascript<br>
+**[jQuery Tutorial](http://www.w3schools.com/jquery/)** -- An official tutorial for jQuery<br>
 **[Sample Project](session2/)** -- Our simple project for Javascript and jQuery specifically developed for IronHacks<br>
 
 ### Videos for Sample Projects
@@ -60,7 +60,7 @@ Please follow along these videos to complete the sample projects on Javascript &
 **[Presentation](https://docs.google.com/presentation/d/1paSzazJEQV3jkrPDvGyM6wKifaGgkZwWRotKwvwMNy0/edit?usp=sharing)** -- Slides for Session 3
 
 ### d3.js and Google Maps
-**[Tutorial](https://github.com/d3/d3/wiki)** -- An offical tutorial for d3<br> 
+**[Tutorial](https://github.com/d3/d3/wiki)** -- An official tutorial for d3<br> 
 **[Sample Project](session3/D3_tutorial)** -- Our simple project for d3 specifically developed for IronHacks<br>
 
 ### Chart Libraries
@@ -81,9 +81,9 @@ Please follow along these videos to complete the sample projects on d3
 **[Quiz - d3](http://www.ironhacks.com/quizzes)**: Quiz “d3” for week 3: We strongly recommend that you take this quiz (sign-in to your contest)<br>
 
 ### Google Maps Javascript API
-**[Offical Tutorial](https://developers.google.com/maps/documentation/javascript/tutorial)** -- Offical tutorial for Google Map API<br>
+**[Official Tutorial](https://developers.google.com/maps/documentation/javascript/tutorial)** -- Official tutorial for Google Map API<br>
 **[Sample Tutorial](session3/GoogleMap/Google-Maps-Tutorial.md)** -- Our sample tutorial for Google Map API specifically developed for IronHacks<br>
-**[Offical Project](https://developers.google.com/maps/documentation/javascript/earthquakes)** -- Offical tutorial for Google Map API<br>
+**[Official Project](https://developers.google.com/maps/documentation/javascript/earthquakes)** -- Official tutorial for Google Map API<br>
 
 ## Additional information to get ready for the hack that starts on March 28th, 2017
 
@@ -96,12 +96,12 @@ The IRONHACKS rules require that you use at least TWO open data sets in your pro
 Available datasets to choose from:
 - **[Climate Data Online](https://www.ncdc.noaa.gov/cdo-web)** -- the mandatory dataset <br> 
 
-Pick one additional open data set relevant for a chanllenge focused on the food quality and price:
+Pick one additional open data set relevant for a challenge focused on the food quality and price:
 - **[50OPENDATASETS](https://www.dropbox.com/s/xsr4ytln2hvn3ah/verified50datasets_vegetables.docx?dl=0)** -- 50 relevant datastes
 
 If you want to learn more about the sources of this data:
-- **[Data.gov](https://www.data.gov)** -- official site of the US Government
-- **[Open Indy Data Portal](http://data.indy.gov/)** -- Offical site of the State of Indiana for open data
+- **[Data.gov](https://www.data.gov)** -- Official site of the US Government
+- **[Open Indy Data Portal](http://data.indy.gov/)** -- Official site of the State of Indiana for open data
 
 You can read more about these datasets [here](Datasets.md)
 
