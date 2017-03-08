@@ -16,8 +16,8 @@ Welcome to Purdue Gold IronHacks Spring 2017! These pages aim to introduce you t
 **[Sample Project](session1/html&css)** -- Our simple project for HTML and CSS specifically developed for IronHacks<br>
 
 ### Videos for Sample Projects
-**[HTML & CSS 1](https://drive.google.com/open?id=0B-DRvJb6N3IiSXFMQkR1LVFvQTA)** <br>
-**[HTML & CSS 2](https://drive.google.com/open?id=0B-DRvJb6N3IidUZDS0d5TVBnb1E)** <br>
+**[HTML & CSS 1](https://www.youtube.com/watch?v=NgY0Cs09xyM&index=1&list=PLv0S1odRLm0YTt7EaxAQpiru6HJAymYJ-&t=572s)** <br>
+**[HTML & CSS 2](https://www.youtube.com/watch?v=jYlHVKq7YKc&list=PLv0S1odRLm0YTt7EaxAQpiru6HJAymYJ-&index=2)** <br>
 
 Please follow along these videos to complete the sample projects on HTML & CSS
 
@@ -45,12 +45,12 @@ _In this hack, we will create a git repository for every participant, and add th
 **[Sample Project](session2/)** -- Our simple project for Javascript and jQuery specifically developed for IronHacks<br>
 
 ### Videos for Sample Projects
-**[JavaScript 1](https://drive.google.com/open?id=0B9-5urQe7fqLa0tqZWw0TkhRbTQ)** <br>
-**[JavaScript 2](https://drive.google.com/open?id=0B9-5urQe7fqLcnhLX2VOS244Y3c)** <br>
-**[JavaScript 3](https://drive.google.com/open?id=0B9-5urQe7fqLOW56VlNVaWhFelE)** <br>
-**[jQuery 1](https://drive.google.com/open?id=0B9-5urQe7fqLbW82ZDJrY2QwOVU)** <br>
-**[jQuery 2](https://drive.google.com/open?id=0B9-5urQe7fqLLV80bnBjYUF6TWM)** <br>
-**[jQuery 3](https://drive.google.com/open?id=0B9-5urQe7fqLWGcwRXZ1djU1Q3c)** <br>
+**[JavaScript 1](https://www.youtube.com/watch?v=AhDO3xLwuC0&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=1)** <br>
+**[JavaScript 2](https://www.youtube.com/watch?v=24AZUg6YY6w&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=2)** <br>
+**[JavaScript 3](https://www.youtube.com/watch?v=hl71lGLlbbg&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=3)** <br>
+**[jQuery 1](https://www.youtube.com/watch?v=qIo_F5qI7Qk&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=4)** <br>
+**[jQuery 2](https://www.youtube.com/watch?v=0mtZJTIq1LU&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=5)** <br>
+**[jQuery 3](https://www.youtube.com/watch?v=m6VhtLLJiCQ&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=6)** <br>
 
 Please follow along these videos to complete the sample projects on Javascript & jQuery
 
