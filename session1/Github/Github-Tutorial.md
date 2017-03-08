@@ -16,7 +16,10 @@ If you don't already have an account, please sign up at [GitHub](https://github.
   
   A **repository** or '**repo**' for short, is a digital directory or storage space where you can access your project, its files and all the versions of its files that Git saves.
 
-### 5. Download GitHub for your machine  
+### 5. Use GitHub in Ironhacks
+  _**For convenient, we will create a repository for every participant and invite him/her to be a collaborator of this repository**_. To finish the hack, you only need to clone this repository and add you project into it before you push it to GitHub. We will introduce more about that later.
+
+### 6. Download GitHub for your machine  
   
   Linux Users should install git to be able to interact with GitHub repositories.   
   To install git from Linux terminal, Fedora Users should use
@@ -31,7 +34,7 @@ If you don't already have an account, please sign up at [GitHub](https://github.
 
   Git could be used by terminal on all OS and you can also find git application with GUI on all OS. 
 
-### 6. Configuration
+### 7. Configuration
 
   Execute following commands on terminal, so that GitHub knows who you are
 > git config --global user.name "**YOUR NAME**"  
@@ -39,9 +42,9 @@ If you don't already have an account, please sign up at [GitHub](https://github.
 
 For more details about how to setup Git and upload your project on your machine, please check the tutorial for [Linux](Github-Setup-For-Linux.md), [Mac](Github-Setup-For-Mac.md) and [Windows](Github-Setup-For-Windows.md)
 
-We will use https for authentication when we connect to GitHub server. SSH is also available and you can find more docuemnt [here](https://help.github.com/articles/connecting-to-github-with-ssh/) and video [here](https://www.youtube.com/watch?v=H5qNpRGB7Qw&t=609s).
+It is easy to use https for authentication when you connect to GitHub server. SSH is also available and you can find more docuemnt [here](https://help.github.com/articles/connecting-to-github-with-ssh/) and video [here](https://www.youtube.com/watch?v=H5qNpRGB7Qw&t=609s).
 
-### 7. Clone a repository
+### 8. Clone a repository
 	
   Every participant of Purdue Ironhacks is supposed to clone a repository to his/her computer. Cloning a repository is similar to downloading an entire project source code online, with the addition that all git objects are downloaed which saves the history of edits to the source code among other things. You would be given a link to clone from, the link is specific to each participant. For the purpose of this tutorial we would clone this [repo](https://github.com/priyankjain/image-grabber).   
 
@@ -52,11 +55,11 @@ We will use https for authentication when we connect to GitHub server. SSH is al
 
   This will create a folder named image-grabber in the current directory. 
 
-### 8. You're all set to start coding
+### 9. You're all set to start coding
 
   Go ahead and start coding. Come back to follow the next steps to upload your code to GitHub.
 
-### 9. Upload your code to GitHub.com
+### 10. Upload your code to GitHub.com
 
   After you have done changes to the code, you need to upload the code to GitHub.com so we can grade you. You can execute this step multiple times, but make sure you do this step once just before submission so that we have the latest copy of your code.
 > git add *   
