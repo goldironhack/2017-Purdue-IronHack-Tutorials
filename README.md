@@ -43,12 +43,12 @@ You are required to submit code to our system using GitHub <br>
 **[Sample Project](session2/)** -- Our simple project for Javascript and jQuery specifically developed for IronHacks<br>
 
 ### Videos for Sample Projects
-**[JavaScript 1](https://drive.google.com/open?id=0B9-5urQe7fqLRWpzcl9ZQnN6VDQ)** <br>
-**[JavaScript 2](https://drive.google.com/open?id=0B9-5urQe7fqLUnpNQ3BQcWdoR00)** <br>
-**[JavaScript 3](https://drive.google.com/open?id=0B9-5urQe7fqLWVdaWlpxQUNUMG8)** <br>
-**[jQuery 1](https://drive.google.com/open?id=0B9-5urQe7fqLSEZpSWFvdlR1aTA)** <br>
-**[jQuery 2](https://drive.google.com/open?id=0B9-5urQe7fqLRW45aHdYZVZMQ1k)** <br>
-**[jQuery 3](https://drive.google.com/open?id=0B9-5urQe7fqLT181QTBfMXRyUFk)** <br>
+**[JavaScript 1](https://drive.google.com/open?id=0B9-5urQe7fqLa0tqZWw0TkhRbTQ)** <br>
+**[JavaScript 2](https://drive.google.com/open?id=0B9-5urQe7fqLcnhLX2VOS244Y3c)** <br>
+**[JavaScript 3](https://drive.google.com/open?id=0B9-5urQe7fqLOW56VlNVaWhFelE)** <br>
+**[jQuery 1](https://drive.google.com/open?id=0B9-5urQe7fqLbW82ZDJrY2QwOVU)** <br>
+**[jQuery 2](https://drive.google.com/open?id=0B9-5urQe7fqLLV80bnBjYUF6TWM)** <br>
+**[jQuery 3](https://drive.google.com/open?id=0B9-5urQe7fqLWGcwRXZ1djU1Q3c)** <br>
 
 Please follow along these videos to complete the sample projects on Javascript & jQuery
 
