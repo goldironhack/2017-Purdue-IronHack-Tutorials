@@ -2,6 +2,9 @@
 
 Welcome to Purdue Gold IronHacks Spring 2017! These pages aim to introduce you to various technologies that will be required as part of this programming challenge. We kindly ask you to complete the material before the competition starts on March 28th, 2017.
 
+**[Introduction Slides - Purdue](https://www.dropbox.com/s/byi71e1dij5ljnt/3-7-2017_Purdue%20IronHacks%202017_Hack%20Introduction.pdf?dl=0)**
+**[Introduction Slides - Bogota](https://www.dropbox.com/s/wxtj0885wsjwxua/3-2-2017_Purdue-UNAL%20IronHacks%202017_Hack%20Introduction.pdf?dl=0)**
+
 ## Session 1
 <i><small>(please complete between March 6th to March 10th)</small></i>
 
