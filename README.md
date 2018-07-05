@@ -126,3 +126,5 @@ An example submission of a mashup has been completed to get you started (but you
 We will be available for online Q&As on Wednesdays and Fridays. Please check www.ironhacks.com
 
 <i>If you have done all this, you are ready to go! GOOD LUCK during the competition! You can do it! </i>
+
+[![DOI](https://zenodo.org/badge/80971429.svg)](https://zenodo.org/badge/latestdoi/80971429)
